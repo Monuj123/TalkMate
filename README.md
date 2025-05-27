@@ -28,8 +28,8 @@ TalkMate is a modern, full-stack chat application built with React, Express.js, 
 # Setup Instructions
 - Clone the repository
    
-       git clone https://github.com/yourusername/talkmate.git
-       cd talkmate
+       git clone https://github.com/yourusername/TalkMate.git
+       cd TalkMate
 - Install dependencies
 
        # Backend setup
