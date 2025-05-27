@@ -1,19 +1,18 @@
 # TalkMate
 TalkMate is a modern, full-stack chat application built with React, Express.js, Node.js, and MongoDB, enabling both one-to-one and group real-time messaging.
-
-- 🚀 Features
+# 🚀 Features
   - 💬 Chat Functionality
     - One-to-One Messaging: Private conversations between two users.
     - Group Chats: Create and manage group conversations with multiple participants.
     - Real-Time Updates: Powered by Socket.IO for instant message delivery.
     - Message History: Previous messages are stored and displayed upon reconnection.
 
-- 🔐 Security & Authentication
+# 🔐 Security & Authentication
   - JWT Authentication: Secure login and registration with JSON Web Tokens.
   - Protected Routes: Only authenticated users can access chats.
   - Password Encryption: User passwords are hashed using bcrypt.
  
-- 🛠 Tech Stack
+# 🛠 Tech Stack
   - Frontend - React.js, Context API, Axios
   - Backend	- Node.js, Express.js
   - Database - MongoDB (Mongoose)
